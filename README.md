@@ -16,7 +16,7 @@
 
 > 7. Through 0/1 Knapsack problem, analyze the greedy and dynamic programming approach for the same dataset.
 
-> 8.Implement the sum of subset.
+> 8. Implement the sum of subset.
 
 > 9. Compare the Backtracking and Branch & Bound Approach by the implementation of 0/1 Knapsack problem. Also compare the performance with dynamic programming approach.
 
